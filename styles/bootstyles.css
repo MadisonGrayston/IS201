@@ -1,0 +1,100 @@
+.common{
+    text-align: center;
+    position: static;
+    color: black
+    }
+
+.header{
+
+   top: 5px;
+   left: 5px;
+   right: 5px;
+   z-index: 5;
+   border: solid 2px #555555;
+    background-color: lightpink;
+    text-align: right;
+    padding-top: 25px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+    }
+
+.tableauPlaceholder{
+    width: 25%;
+
+
+}
+.headerchange{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+}
+
+.subheader{
+    float: right;
+}
+.mainbody{
+    top: 118px;
+    height: fit-content;
+    bottom: 64px;
+    left: 20px;
+    right: 20px;
+    background-color: floralwhite
+}
+
+.firstchart{
+    top: 5px;
+    left: 0px;
+    right: 100px;
+    width: 500px;
+    height: 250px;
+}
+
+.secondchart{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 500px;
+    height: 250px
+
+}
+
+.thirdchart{ 
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 500px;
+    height: 250px
+
+}
+
+.fourthchart{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 500px;
+    height: 250px
+}
+body{
+    background-color: lavenderblush;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.footer{
+    bottom: 5px;
+    height: 30px;
+    left: 5px;
+    right: 5px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    background-color: lightpink;
+    padding-top: 10px;
+    border: solid 2px #555555;
+
+}
+
